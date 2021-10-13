@@ -1,2 +1,2 @@
 # CMSimple_XH-Unauth-RCE
-hh
+python3 exploit.py -u http://example.com -p Admin123
